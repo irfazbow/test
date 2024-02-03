@@ -1,3 +1,3 @@
 console.log("Allo");
-console.log("aloalloalaolao bikin error");
-console.log("aloalloalaolao bikin error error ga nih skrng");
+console.log("Allo about woy kok kaga error");
+console.log("error dah hrsnya");
